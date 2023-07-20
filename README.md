@@ -1,3 +1,12 @@
+# Anime App
+
+- [ ] This is a React web application called "MyAnimeList."
+- [ ] It allows users to search for anime using the Jikan API and displays the results in two sections: "Anime" and "My List."
+- [ ] The "Anime" section shows a list of anime retrieved from the API, and users can click on each anime card to view its details.
+- [ ] User can also add anime to "My List" by clicking the "Add To List +" button on each anime card.
+- [ ] The "My List" section displays the anime the user has added, and user can remove an anime from list by clicking the "Remove From List -" button.
+- [ ] The app uses local storage to store the user's personal anime list.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
